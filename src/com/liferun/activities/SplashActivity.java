@@ -32,7 +32,7 @@ public class SplashActivity extends Activity implements QBCallback{
 
 			@Override
 			public void run() {
-				Class activityToStart = LoginActivity.class;//MapActivity.class;
+				Class activityToStart = InterestsActivity.class;//LoginActivity.class;//MapActivity.class;
 				 Intent i = new Intent(SplashActivity.this, activityToStart);
                  //i.putExtra("call","startup");
                  startActivity(i);

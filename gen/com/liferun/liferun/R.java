@@ -39,31 +39,43 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int background=0x7f020000;
-        public static final int button=0x7f020001;
-        public static final int circlegray=0x7f020002;
-        public static final int circlegreen=0x7f020003;
-        public static final int desciption=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int logo=0x7f020006;
-        public static final int next_button=0x7f020007;
+        public static final int accept_button=0x7f020000;
+        public static final int background=0x7f020001;
+        public static final int button=0x7f020002;
+        public static final int circlegray=0x7f020003;
+        public static final int circlegreen=0x7f020004;
+        public static final int decline_button=0x7f020005;
+        public static final int desciption=0x7f020006;
+        public static final int help_button=0x7f020007;
+        public static final int ic_launcher=0x7f020008;
+        public static final int logo=0x7f020009;
+        public static final int next_button=0x7f02000a;
+        public static final int photo=0x7f02000b;
     }
     public static final class id {
-        public static final int action_settings=0x7f090007;
-        public static final int btn_ogin_with_fb=0x7f090004;
-        public static final int button1=0x7f090002;
-        public static final int imageView1=0x7f090005;
-        public static final int listView1=0x7f090001;
-        public static final int mapId=0x7f090006;
-        public static final int splash=0x7f090003;
-        public static final int textView1=0x7f090000;
+        public static final int action_settings=0x7f09000e;
+        public static final int btn_ogin_with_fb=0x7f09000b;
+        public static final int button1=0x7f090009;
+        public static final int button_accept=0x7f090004;
+        public static final int button_decline=0x7f090005;
+        public static final int button_help=0x7f090006;
+        public static final int challenge_description=0x7f090003;
+        public static final int challenge_image=0x7f090001;
+        public static final int challenge_name=0x7f090002;
+        public static final int imageView1=0x7f09000c;
+        public static final int linearLayout1=0x7f090000;
+        public static final int listView1=0x7f090008;
+        public static final int mapId=0x7f09000d;
+        public static final int splash=0x7f09000a;
+        public static final int textView1=0x7f090007;
     }
     public static final class layout {
-        public static final int activity_interests=0x7f030000;
-        public static final int activity_login=0x7f030001;
-        public static final int activity_splash=0x7f030002;
-        public static final int interests_array_item=0x7f030003;
-        public static final int main_map=0x7f030004;
+        public static final int activity_challenge_description=0x7f030000;
+        public static final int activity_interests=0x7f030001;
+        public static final int activity_login=0x7f030002;
+        public static final int activity_splash=0x7f030003;
+        public static final int interests_array_item=0x7f030004;
+        public static final int main_map=0x7f030005;
     }
     public static final class menu {
         public static final int splash=0x7f080000;

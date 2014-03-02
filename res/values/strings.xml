@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 	<string name="about_you">What is your favourite activity?</string>
+	<string name="recommend">Here are some recommendations for you</string>
+	<string name="facebook_app_id">1469760873239356</string>
 </resources>

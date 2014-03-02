@@ -27,7 +27,6 @@ public class InterestsActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_interests);
-		//configApp();
 		Button btnNext =(Button) findViewById(R.id.button1);
 		ListView lv = (ListView) findViewById(R.id.listView1);
 
@@ -55,6 +54,10 @@ public class InterestsActivity extends Activity{
 			}
         });
 	}
+	
+	
+	
+	
 	
 	OnClickListener onNextBtn = new OnClickListener() {
 		

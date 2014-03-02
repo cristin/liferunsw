@@ -5,10 +5,11 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry exported="true" kind="lib" path="D:/Programming/Android Developer Tools/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/google-play-services.jar">
+	<classpathentry exported="true" kind="lib" path="/Users/user/Documents/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/google-play-services.jar">
 		<attributes>
-			<attribute name="javadoc_location" value="file:/D:/Programming/Android%20Developer%20Tools/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/../../../docs/reference/"/>
+			<attribute name="javadoc_location" value="file:/Users/user/Documents/adt-bundle-mac-x86_64-20131030/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/../../../docs/reference/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/user/Documents/workspace/liferunsw/libs/quickblox-android-1.1.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

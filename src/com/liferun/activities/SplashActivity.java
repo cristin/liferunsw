@@ -33,24 +33,20 @@ public class SplashActivity extends Activity implements ActionResultDelegate {
 		setContentView(R.layout.activity_splash);
 		configApp();
 
-		/*new Handler().postDelayed(new Runnable() {
+		new Handler().postDelayed(new Runnable() {
 
 			@Override
-<<<<<<< HEAD
+
 			public void run() {
-				Class activityToStart = ChallengeActivity.class;//LoginActivity.class;//MapActivity.class;
+				Class activityToStart = MyChallengesActivity.class;//LoginActivity.class;//MapActivity.class;
 				 Intent i = new Intent(SplashActivity.this, activityToStart);
                  //i.putExtra("call","startup");
                  startActivity(i);
 			}
 			 
 		 }, SPLASH_TIME_OUT);
-=======
-			public void run() {*/
-				Query.authorizeApp(this);
-			/*}
 
-		}, SPLASH_TIME_OUT);*/
+			
 
 	}
 

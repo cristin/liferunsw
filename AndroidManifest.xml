@@ -44,6 +44,9 @@
             android:name="com.liferun.activities.ChallengeActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.liferun.activities.MyChallengesActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.liferun.activities.AboutActivity"
             android:screenOrientation="portrait" />
         <activity
@@ -64,10 +67,6 @@
         <activity
             android:name="com.liferun.activities.NewsActivity"
             android:screenOrientation="portrait" />
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyDGjBHFa1BH0LO7muRM9o7NBqsqS623zbk" />
